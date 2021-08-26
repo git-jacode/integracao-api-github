@@ -13,9 +13,9 @@ Seu papel é construir uma RESTful API que permita:
 -   Sacar de uma conta bancária
 -   Transferir valores entre contas bancárias
 -   Consultar saldo da conta bancária
--   Emitir extrato bancário
+-   Emitir extrato bancárioasdfasdf
 -   Excluir uma conta bancária
-
+adsfasdf
 ## Requisitos obrigatórios
 
 -   Sua API deve seguir o padrão REST
