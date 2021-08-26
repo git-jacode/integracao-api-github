@@ -1,11 +1,11 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-# Desafio | Back-end - Módulo 2
-
+# Desafio | Back-end - cececeMódulo 2casdfsdf
+asdfasdf
 Você acabou de ser contratado pela melhor empresa de tecnologia do mundo: a **CUBOS**.
-Sua primeira tarefa como desenvolvedor é criar uma API para um Banco Digital. Esse será um projeto **piloto**, ou seja, no futuro outras funcionalidades serão implementadas, portanto, dados do banco (nome, agência, etc.) serão imutáveis.
+Sua primeira tarefa como desenvolvedor é criar uma API paraasfsadfasdf um Banco Digital. Esse será um projeto **piloto**, ou seja, no futuro outras funcionalidades serão implementadas, portanto, dados do banco (nome, agência, etc.) serão imutáveis.
 
-Seu papel é construir uma RESTful API que permita:
+Seu papel é construir uma RESTful API que permita:casdfasdfasdfasdf
 
 -   Criar conta bancária
 -   Atualizar os dados do usuário da conta bancária
@@ -13,9 +13,9 @@ Seu papel é construir uma RESTful API que permita:
 -   Sacar de uma conta bancária
 -   Transferir valores entre contas bancárias
 -   Consultar saldo da conta bancária
--   Emitir extrato bancário
+-   Emitir extrato bancárioasdfasdf
 -   Excluir uma conta bancária
-
+adsfasdf
 ## Requisitos obrigatórios
 
 -   Sua API deve seguir o padrão REST
@@ -27,7 +27,7 @@ Seu papel é construir uma RESTful API que permita:
 -   Qualquer valor (dinheiro) deverá ser representado em centavos (Ex.: R$ 10,00 reais = 1000)
 -   Evite códigos duplicados. Antes de copiar e colar, pense se não faz sentido esse pedaço de código estar centralizado numa função.
 
-## Persistências dos dados
+## Persistências dos dadoscecce
 
 Os dados serão persistidos em memória, no objeto existente dentro do arquivo `bancodedados.js`. Todas as transações e contas bancárias deverão ser inseridas dentro deste objeto, seguindo a estrutura que já existe.
 
