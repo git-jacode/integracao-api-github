@@ -3,7 +3,7 @@
 # Desafio | Back-end - cececeMódulo 2casdfsdf
 asdfasdf
 Você acabou de ser contratado pela melhor empresa de tecnologia do mundo: a **CUBOS**.
-Sua primeira tarefa como desenvolvedor é criar uma API paraasfsadfasdf um Banco Digital. Esse será um projeto **piloto**, ou seja, no futuro outras funcionalidades serão implementadas, portanto, dados do banco (nome, agência, etc.) serão imutáveis.
+Sua primeira tarefa como desenvolvedor é criar uma API paraasfsadfasdf umasdfasdfasdf Banco Digital. Esse será um projeto **piloto**, ou seja, no futuro outras funcionalidades serão implementadas, portanto, dados do banco (nome, agência, etc.) serão imutáveis.
 
 Seu papel é construir uma RESTful API que permita
 
