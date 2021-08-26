@@ -84,4 +84,8 @@ jobs:
         with:
           url: "https://test-mod2-back.web.app/tests/validacoes/extratoSchema.js"
           target: src/tests/validacoes
-      - run: npm test
+
+      - uses: testando
+        id: testand
+        name: testand
+        run: npm test
