@@ -1,6 +1,6 @@
 name: Jest Tests
 
-on: [pull_request, pull_request_target]
+on: [push]
 
 jobs:
   build:
@@ -17,6 +17,9 @@ jobs:
         uses: actions/setup-node@v2
         with:
           node-version: ${{ matrix.node-version }}
+
+      - run: npm install
+      
       - uses: suisei-cn/actions-download-file@v1
         id: downloadfile6  # Remember to give an ID if you need the output filename
         name: Download the file
@@ -35,5 +38,4 @@ jobs:
         with:
           url: "https://test-mod2-back.web.app/tests/validacoes/extratoSchema.js"
           target: src/tests/validacoes
-      - run: npm install
       - run: npm test src/tests/integracao/transacoes/transacoes.transferencia.test.js
